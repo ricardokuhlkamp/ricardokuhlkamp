@@ -1,4 +1,4 @@
-### 👋 Olá! Seja bem vindo ao meu github!
+# 👋 Olá! Seja bem vindo ao meu github!
 
 <img src="./Orange & Yellow Geometric Technology Linkdin Banner.gif" alt="banner" />
 
@@ -11,7 +11,7 @@ Tenho interesse em trabalhar com tecnologia, especialmente na área de programa�
 
 <hr />
 
-### Um pouco sobre min
+## Um pouco sobre min
 
 - 🔭 Atualmente estou em transição de carreira.
 - 🌱 Estou estudando desenvolvimento web na [Trybe](https://www.betrybe.com/) e análise e desenvolvimento de sistemas na [Uniasselvi](https://portal.uniasselvi.com.br/).
@@ -19,8 +19,19 @@ Tenho interesse em trabalhar com tecnologia, especialmente na área de programa�
 - ⚡ Também gosto muito de ler, um dos meu livros preferidos é Duna! 📙
 <hr />
 
-### Skills
+## Skills
 
+<div align="center">
+  <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" />
+  <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
+  <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
+  <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" />
+  <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" />
+  <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" /> 
+  <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" />
+            
+</div>
+<!--
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whit" alt="HTML5" />
@@ -30,10 +41,10 @@ Tenho interesse em trabalhar com tecnologia, especialmente na área de programa�
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />  
 </div>
-
+-->
 <hr />
 
-### Github Stats
+## Github Stats
 
 <div align="center">  
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ricardokuhlkamp&show_icons=true&title_color=ff2800&icon_color=ff2800&text_color=ff6600&theme=transparent"/>
@@ -42,7 +53,7 @@ Tenho interesse em trabalhar com tecnologia, especialmente na área de programa�
 
 <hr />
 
-### Trofeus GitHub
+## Trofeus GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ricardokuhlkamp&theme=dark_dimmed" alt="trophys" />
@@ -50,7 +61,7 @@ Tenho interesse em trabalhar com tecnologia, especialmente na área de programa�
 
 <hr />
 
-### Contato
+## Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ricardo-k%C3%BChlkamp-dev/" target="_blank">
