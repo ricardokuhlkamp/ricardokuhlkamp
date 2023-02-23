@@ -62,8 +62,9 @@ Tenho interesse em trabalhar com tecnologia, especialmente na área de programa�
   </a>
 </div>
 
+<!--
 ![Snake animation](https://github.com/ricardokuhlkamp/ricardokuhlkamp/blob/output/github-contribution-grid-snake.svg)
-
+-->
 <!--
 **ricardokuhlkamp/ricardokuhlkamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
