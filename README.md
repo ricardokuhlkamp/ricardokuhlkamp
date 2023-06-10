@@ -1,6 +1,6 @@
 # 👋 Olá! Seja bem vindo ao meu github!
 
-<img src="./Orange & Yellow Geometric Technology Linkdin Banner.gif" alt="banner" />
+<img src="./Banner.gif" alt="banner" />
 
 <p align="justify">Prazer sou Ricardo, sou uma pessoa determinada, comprometida, responsável, e disposta a aprender novos conhecimentos.
 Possuo formação em engenharia agronômica pela UDESC-Lages/SC.
