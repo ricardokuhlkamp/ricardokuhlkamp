@@ -2,8 +2,6 @@
 
 <img src="./Orange & Yellow Geometric Technology Linkdin Banner.gif" alt="banner" />
 
-<img src="https://www.canva.com/design/DAFbZPgr2mo/sALqBfK7mokT6BR92rLfgA/watch?utm_content=DAFbZPgr2mo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="banner" />
-
 <p align="justify">Prazer sou Ricardo, sou uma pessoa determinada, comprometida, responsável, e disposta a aprender novos conhecimentos.
 Possuo formação em engenharia agronômica pela UDESC-Lages/SC.
 Tive contato com a programação através da Linguagem-R para análise de dados de inventários florestais o que despertou novamente meu interesse pela programação e a vontande e coragem para efetuar uma transição de carreira.
