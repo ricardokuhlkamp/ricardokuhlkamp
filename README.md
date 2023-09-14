@@ -11,6 +11,24 @@ Tenho interesse em trabalhar com tecnologia, especialmente na área de programa�
 
 <hr />
 
+## Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ricardo-k%C3%BChlkamp-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5547999156365&text=Olá Ricardo! Vi seu github, podemos conversar?"
+          target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:ric.kds@hotmail.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/ricardokds/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
 ## Um pouco sobre mim
 
 - 🔭 Atualmente estou em transição de carreira.
@@ -77,23 +95,7 @@ Tenho interesse em trabalhar com tecnologia, especialmente na área de programa�
 
 <hr />
 
-## Contato
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ricardo-k%C3%BChlkamp-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5547999156365&text=Olá Ricardo! Vi seu github, podemos conversar?"
-          target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="mailto:ric.kds@hotmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/ricardokds/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
 
 <!--
 ![Snake animation](https://github.com/ricardokuhlkamp/ricardokuhlkamp/blob/output/github-contribution-grid-snake.svg)
