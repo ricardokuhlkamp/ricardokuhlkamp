@@ -81,7 +81,7 @@ Tenho interesse em trabalhar com tecnologia, especialmente na √°rea de programa√
 ## Github Stats
 
 <div align="center">  
-  <img height="180cm" width="500cm" src="https://github-readme-stats.vercel.app/api?username=ricardokuhlkamp&show_icons=true&title_color=ff2800&icon_color=ff2800&text_color=ff6600&theme=transparent"/>
+  <img height="110cm" width="500cm" src="https://github-readme-stats.vercel.app/api?username=ricardokuhlkamp&show_icons=true&title_color=ff2800&icon_color=ff2800&text_color=ff6600&theme=transparent"/>
   <img height="180cm" width="800cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardokuhlkamp&layout=compact&title_color=ff2800&icon_color=ff6600&text_color=ff6600&theme=transparent"/>
 </div>
 
