@@ -11,7 +11,7 @@ Tenho interesse em trabalhar com tecnologia, especialmente na área de programa�
 
 <hr />
 
-## Um pouco sobre min
+## Um pouco sobre mim
 
 - 🔭 Atualmente estou em transição de carreira.
 - 🌱 Estou estudando desenvolvimento web na [Trybe](https://www.betrybe.com/) e análise e desenvolvimento de sistemas na [Uniasselvi](https://portal.uniasselvi.com.br/).
