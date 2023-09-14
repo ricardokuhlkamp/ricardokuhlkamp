@@ -86,15 +86,16 @@ Tenho interesse em trabalhar com tecnologia, especialmente na √°rea de programa√
 </div>
 
 <hr />
-
+<!--
 ## Trofeus GitHub
-
+<!--
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ricardokuhlkamp&theme=dark_dimmed" alt="trophys" />
 </div>
-
+-->
+<!--
 <hr />
-
+-->
 
 
 <!--
